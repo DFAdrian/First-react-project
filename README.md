@@ -1,4 +1,4 @@
-# co45e4c8897dadd51c6b57bd1
+# First solo proyect using React 
 
 Quick start:
 
