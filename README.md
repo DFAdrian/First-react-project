@@ -1,4 +1,4 @@
-# First solo proyect using React 
+# First solo proyect using React on Scrimba
 
 Quick start:
 
